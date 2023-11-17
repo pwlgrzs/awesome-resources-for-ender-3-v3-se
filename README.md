@@ -67,7 +67,7 @@ All items below were either purchased by someone in the community or purchased b
 ## Klipper
 
 - [Official site](https://www.klipper3d.org)
-- [Discord](https://discord.klipper3d.org/})
+- [Discord](https://discord.klipper3d.org)
 
 ### Klipper on Ender 3 V3 SE
 
