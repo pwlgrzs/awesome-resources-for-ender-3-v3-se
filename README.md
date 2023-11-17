@@ -12,6 +12,7 @@
 - [Slicers](#slicers)
   - [Slicer profiles](#slicer-profiles)
 - [Klipper](#klipper)
+  - [Klipper on Ender 3 V3 SE](#klipper-on-ender-3-v3-se)
   - [Firmware](#firmware)
   - [Configurations](#configurations)
   - [Klipper extras](#klipper-extras)
@@ -27,10 +28,10 @@
 
 ## Community
 
-* [Creality /r](https://www.reddit.com/r/Creality/)
-* [Ender 3 V3 SE /r (unofficial)](https://www.reddit.com/r/Ender3V3SE/)
-* [Discord](https://discord.gg/mbCpbSv9)
-* [Facebook group](https://www.facebook.com/groups/347538964267031)
+- [Creality /r](https://www.reddit.com/r/Creality/)
+- [Ender 3 V3 SE /r (unofficial)](https://www.reddit.com/r/Ender3V3SE/)
+- [Discord](https://discord.gg/mbCpbSv9)
+- [Facebook group](https://www.facebook.com/groups/347538964267031)
 
 ## Hardware and parts
 
@@ -40,52 +41,63 @@
 
 All items below were either purchased by someone in the community or purchased by myself. No wilding.
 
-* [PEI bed](https://www.aliexpress.com/item/1005005815144081.html)
-* [Heat bed spacer spring replacement](https://www.aliexpress.com/item/33000090210.html)
-* [Sonic Pad](https://www.aliexpress.com/item/1005005573923853.html)
-* [Sonic Pad G-Sensor and Serial Cable*](https://www.aliexpress.com/item/1005005135181819.html)
+- [PEI bed](https://www.aliexpress.com/item/1005005815144081.html)
+- [Heat bed spacer spring replacement](https://www.aliexpress.com/item/33000090210.html)
+- [Sonic Pad](https://www.aliexpress.com/item/1005005573923853.html)
+- [Sonic Pad G-Sensor and Serial Cable*](https://www.aliexpress.com/item/1005005135181819.html)
 
 \* Serial cable is currently required to connect SonicPad to V3 SE, USB-C connection does not work. Please refer to Sonic Pad section for more information.
 
 #### Printable
 
-* [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud)
+- [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud)
 
 ![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
 
-* [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se)
+- [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se)
 
 ## Slicers
 
 ### Slicer profiles
 
-* [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config)
+- [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config)
 
 Cura profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
 
+Yet to find working Orca profile...
+
 ## Klipper
 
-* [Official site](https://www.klipper3d.org)
-* [Discord](https://discord.klipper3d.org/})
+- [Official site](https://www.klipper3d.org)
+- [Discord](https://discord.klipper3d.org/})
+
+### Klipper on Ender 3 V3 SE
+
+While it is possible to flash klipper onto Ender 3 V3 SE board following features are not (yet) working or there are testing releases availabe from other code creators.
+
+- automatic Z-offset probing
+- screen (it is in the screensaver mode after flashing)
+
+Opposed to Sonic Pad klipper "standard" installation on RPi board or else use USB-C connection.
 
 ### Firmware
 
-* [Klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se)
+- [Development klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se)
 
 \* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk.
 
 ### Configurations
 
-* [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config)
-* [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
+- [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config)
+- [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
 
 I recommend using 0xD34D configuration if you use his klipper fork.
 
 ### Klipper extras
 
-* [CYD-Klipper](https://github.com/suchmememanyskill/CYD-Klipper)*
-* [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
-* [Telegram bot](https://github.com/nlef/moonraker-telegram-bot)
+- [CYD-Klipper](https://github.com/suchmememanyskill/CYD-Klipper)*
+- [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+- [Telegram bot](https://github.com/nlef/moonraker-telegram-bot)
 
 \* Requires hardware purchase
 
@@ -113,13 +125,13 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 
 ### Models sites
 
-* [printables.com](https://www.printables.com/)
-* [thingverse.com](https://www.thingiverse.com/)
-* [yeggi.com](https://www.yeggi.com/) - this is an aggregator from various sites
+- [printables.com](https://www.printables.com/)
+- [thingverse.com](https://www.thingiverse.com/)
+- [yeggi.com](https://www.yeggi.com/) - this is an aggregator from various sites
 
 ### 3D printing guides
 
-* [all3dp.com](https://all3dp.com/)
+- [all3dp.com](https://all3dp.com/)
 
 ## Other stuff
 
@@ -150,9 +162,9 @@ Want to add your resources? Sure thing, open an issue or send a PR.
 
 Thanks to
 
-* [suchmememanyskill](https://github.com/suchmememanyskill)
-* [0xD34D](https://github.com/0xD34D)
-* [bootuz-dinamon](https://github.com/bootuz-dinamon)
-* everyone not mentioned here
+- [suchmememanyskill](https://github.com/suchmememanyskill)
+- [0xD34D](https://github.com/0xD34D)
+- [bootuz-dinamon](https://github.com/bootuz-dinamon)
+- everyone not mentioned here
 
 for their awesome contribution to Ender 3 V3 SE community!
