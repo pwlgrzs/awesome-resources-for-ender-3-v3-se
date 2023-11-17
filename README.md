@@ -8,7 +8,6 @@
 - [Hardware and parts](#hardware-and-parts)
   - [Mods](#mods)
     - [Not-printable](#not-printable)
-    - [Bed spring upgrade](#bed-spring-upgrade)
     - [Printable](#printable)
 - [Slicers](#slicers)
   - [Slicer profiles](#slicer-profiles)
@@ -25,7 +24,6 @@
   - [Install instructions for 0xD34D Klipper fork](#install-instructions-for-0xd34d-klipper-fork)
 - [Contribution](#contribution)
 - [Credits](#credits)
-
 
 ## Community
 
@@ -44,15 +42,11 @@ All items below were either purchased by someone in the community or purchased b
 
 - [PEI bed](https://www.aliexpress.com/item/1005005815144081.html)
 - [Heat bed spacer spring replacement](https://www.aliexpress.com/item/33000090210.html)
-- Bed Spring upgrade [READ MORE](#bed-sprint-upgrade)
+- Bed spring upgrade
 - [Sonic Pad](https://www.aliexpress.com/item/1005005573923853.html)
 - [Sonic Pad G-Sensor and Serial Cable*](https://www.aliexpress.com/item/1005005135181819.html)
 
 \* Serial cable is currently required to connect SonicPad to V3 SE, USB-C connection does not work. Please refer to Sonic Pad section for more information.
-
-#### Bed spring upgrade
-
-Bed spring upgrade relies on replacing stock bed spacers with 20mm springs. It allows getting more consistent bed meshes. There're lots of them on Aliexpress, but old printer might come handy as well. Mind the thermals.
 
 #### Printable
 
