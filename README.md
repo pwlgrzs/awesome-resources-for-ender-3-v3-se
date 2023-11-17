@@ -133,6 +133,7 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 ### 3D printing guides
 
 - [all3dp.com](https://all3dp.com/)
+- [teachingtechyt](https://teachingtechyt.github.io) - guides on how to calibrate printer
 
 ## Other stuff
 
