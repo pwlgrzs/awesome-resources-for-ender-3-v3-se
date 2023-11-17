@@ -25,13 +25,15 @@ All items below were either purchased by someone in the community or purchased b
 
 * [Ender 3 V3 SE 4010 Fan Shroud ](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud) by iambengraham
 
+![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
+
 ## Slicers
 
 ### Slicer profiles
 
 * [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config) by [suchmememanyskill](https://github.com/suchmememanyskill)
 
-Cura profile is already in the code and will be released with next Cura version (5.6.0 currently in beta)
+Cura profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
 
 ## Klipper
 
@@ -42,11 +44,13 @@ Cura profile is already in the code and will be released with next Cura version 
 
 * [Klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se) by [0xD34D](https://github.com/0xD34D)*
 
-\* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk
+\* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk.
 ### Configurations
 
 * [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config) by [0xD34D](https://github.com/0xD34D)
 * [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper) by [bootuz-dinamon](https://github.com/bootuz-dinamon)
+
+I recommend using 0xD34D configuration if you use his klipper fork.
 
 ### Klipper extras
 
@@ -56,7 +60,7 @@ Cura profile is already in the code and will be released with next Cura version 
 
 ### SonicPad
 
-Sonic Pad is Creality T800 Allwinner tablet with preinstalled and customized Klipper. The OS is pretty much closed (even if rooted) and does not allow for any modifications outside what can be seen in the webUI (no KAMP, no Telegram bot, nothing). 
+Sonic Pad is Creality T800 AllWinner tablet with preinstalled and customized Klipper. The OS is pretty much closed (even if rooted) and does not allow for any modifications outside what can be seen in the webUI (no KAMP, no Telegram bot, nothing).
 
 The only plus I currently see in owning one is that it has device specific configurations that community is currently struggling to replicate (such as pytouch_v2 implementation - note there is a pytouch_v1 working version of klipper).
 
@@ -70,7 +74,7 @@ Does it work? Yes. Do you need it? That depends. You can refer to the table belo
 | Easy calibration from the UI           	| Touch screens seems laggy                          	|
 | Adds WiFi capability to the printer    	| Requires separate serial cable to connect to V3 SE 	|
 
-You can buy one here: [Aliexpress](https://www.aliexpress.com/item/1005005573923853.html)
+You can buy one here: [Aliexpress](https://www.aliexpress.com/item/1005005573923853.html).
 My purchase from the link above came with serial cable and G-Sensor however it was noted that not all boxes had these cables included. Links to these cables is listed above.
 
 ## Other 3D printing useful info
