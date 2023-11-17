@@ -61,10 +61,8 @@ All items below were either purchased by someone in the community or purchased b
 ### Slicer profiles
 
 - [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config)
-
-Cura profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
-
-Yet to find working Orca profile...
+- Cura - Profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
+- Orca - Yet to find working Orca profile...
 
 ## Klipper
 
