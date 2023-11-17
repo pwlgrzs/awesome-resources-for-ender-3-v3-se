@@ -1,4 +1,27 @@
+<!-- omit in toc -->
 # Your one-stop-shop for everything related to:<br>***Ender 3 V3 SE!***
+
+<!-- omit in toc -->
+## TOC
+
+- [Community](#community)
+- [Hardware and parts](#hardware-and-parts)
+  - [Mods](#mods)
+    - [Not-printable](#not-printable)
+    - [Printable](#printable)
+- [Slicers](#slicers)
+  - [Slicer profiles](#slicer-profiles)
+- [Klipper](#klipper)
+  - [Firmware](#firmware)
+  - [Configurations](#configurations)
+  - [Klipper extras](#klipper-extras)
+  - [SonicPad](#sonicpad)
+- [Other 3D printing useful info](#other-3d-printing-useful-info)
+- [Other stuff](#other-stuff)
+    - [Install instructions for 0xD34D Klipper fork](#install-instructions-for-0xd34d-klipper-fork)
+- [Contribution](#contribution)
+- [Credits](#credits)
+
 
 ## Community
 
