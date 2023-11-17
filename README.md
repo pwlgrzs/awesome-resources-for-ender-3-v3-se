@@ -33,7 +33,7 @@ WIP
 
 ### Slicer profiles
 
-* [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config) by [suchmememanyskills](https://github.com/suchmememanyskill)
+* [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config) by [suchmememanyskill](https://github.com/suchmememanyskill)
 
 ## Klipper
 
@@ -44,7 +44,7 @@ WIP
 
 * [Klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se) by [0xD34D](https://github.com/0xD34D)*
 
-\* See installation instructions below, use at own risk
+\* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk
 ### Configurations
 
 * [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config) by [0xD34D](https://github.com/0xD34D)
