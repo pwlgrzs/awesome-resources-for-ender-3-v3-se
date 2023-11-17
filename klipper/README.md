@@ -43,6 +43,8 @@ Note that I am probably offending half of the internet using word klipper contro
 
 I won't be providing detailed information or step-by-step guide, these will be just bullet points to get thru.
 
+If you don't like reading check this [awesome video](https://www.youtube.com/watch?v=LrBiwabN-Y8) by BootUse
+
 1. Get a PC/RPi/whatever capable of running debian type system and prep it until you're SSH'ed into.
 2. Get [KIAUH](https://github.com/dw-0/kiauh) and install klipper, moonraker, fluidd or mainsail.<br>
 In short, you talk to fluidd, fluidd talks to moonraker and moonraker talks to klipper.
@@ -69,7 +71,7 @@ make
 
 Once completed you will find klipper.bin file in out folder. Copy it to SD card, place it in the printer and turn the printer on.
 
-1. Wait 5 minutes and restart klipper service via your web interface. If you succeeded error will be gone and you'll be successfully connected to printer.
+5. Wait 5 minutes and restart klipper service via your web interface. If you succeeded error will be gone and you'll be successfully connected to printer.
 
 Great job, you're now klipperized. Go Google the rest.
 
