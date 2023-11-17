@@ -24,17 +24,17 @@ All items below were either purchased by someone in the community or purchased b
 
 #### Printable
 
-* [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud) by iambengraham
+* [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud)
 
 ![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
 
-* [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se) by Demothens
+* [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se)
 
 ## Slicers
 
 ### Slicer profiles
 
-* [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config) by [suchmememanyskill](https://github.com/suchmememanyskill)
+* [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config)
 
 Cura profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
 
@@ -45,14 +45,14 @@ Cura profile is already in the code and will be released with next Cura version 
 
 ### Firmware
 
-* [Klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se) by [0xD34D](https://github.com/0xD34D)*
+* [Klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se)
 
 \* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk.
 
 ### Configurations
 
-* [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config) by [0xD34D](https://github.com/0xD34D)
-* [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper) by [bootuz-dinamon](https://github.com/bootuz-dinamon)
+* [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config)
+* [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
 
 I recommend using 0xD34D configuration if you use his klipper fork.
 
@@ -112,3 +112,14 @@ https://github.com/0xD34D/klipper_ender3_v3_se
 ## Contribution
 
 Want to add your resources? Sure thing, open an issue or send a PR.
+
+## Credits
+
+Thanks to
+
+* [suchmememanyskill](https://github.com/suchmememanyskill)
+* [0xD34D](https://github.com/0xD34D)
+* [bootuz-dinamon](https://github.com/bootuz-dinamon)
+* everyone not mentioned here
+
+for their awesome contribution to Ender 3 V3 SE community!
