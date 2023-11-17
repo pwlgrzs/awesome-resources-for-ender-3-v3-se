@@ -125,8 +125,9 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 
 ### Models sites
 
-- [printables.com](https://www.printables.com/)
+- [printables.com](https://www.printables.com/) - model site by Prusa
 - [thingverse.com](https://www.thingiverse.com/)
+- [makerworld.com/en](https://makerworld.com/en) - model site by Bambu Labs
 - [yeggi.com](https://www.yeggi.com/) - this is an aggregator from various sites
 
 ### 3D printing guides

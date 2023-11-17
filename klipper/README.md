@@ -60,7 +60,7 @@ There select following settings:
 - Micro-controller architecture: STMicroelectronics STM32
 - Processor model: STM32F103
 - Bootloader offset: 28KiB
-- Communication interface: Serial (onUSART1 PA10/PA09)
+- Communication interface: Serial (on USART1 PA10/PA09)
 ``````
 
 Quit and save. Then run:
@@ -72,6 +72,8 @@ make
 Once completed you will find klipper.bin file in out folder. Copy it to SD card, place it in the printer and turn the printer on.
 
 5. Wait 5 minutes and restart klipper service via your web interface. If you succeeded error will be gone and you'll be successfully connected to printer.
+
+<<< **REMOVE THE SDCARD**  >>>
 
 Great job, you're now klipperized. Go Google the rest.
 
