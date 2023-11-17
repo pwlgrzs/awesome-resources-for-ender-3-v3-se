@@ -35,6 +35,8 @@ WIP
 
 * [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config) by [suchmememanyskill](https://github.com/suchmememanyskill)
 
+Cura profile is already in the code and will be released with next Cura version (5.6.0 currently in beta)
+
 ## Klipper
 
 * [Official site](https://www.klipper3d.org)
