@@ -21,7 +21,7 @@
   - [Models sites](#models-sites)
   - [3D printing guides](#3d-printing-guides)
 - [Other stuff](#other-stuff)
-    - [Install instructions for 0xD34D Klipper fork](#install-instructions-for-0xd34d-klipper-fork)
+  - [Install instructions for 0xD34D Klipper fork](#install-instructions-for-0xd34d-klipper-fork)
 - [Contribution](#contribution)
 - [Credits](#credits)
 
@@ -135,12 +135,14 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 
 ## Other stuff
 
-#### Install instructions for 0xD34D Klipper fork
+### Install instructions for 0xD34D Klipper fork
+
+I assume if you got here you may know what you're doing but I have to say that again, you're on your own and not me nor the 0xD34D would be responsible for your printer becoming a toast.
 
 1. Run KIAUH and uninstall klipper (ONLY klipper)
 2. In KIAUH folder create file named klipper_repos.txt and add these 2 lines:
 
-```
+```text
 https://github.com/Klipper3d/klipper
 https://github.com/0xD34D/klipper_ender3_v3_se
 ```
