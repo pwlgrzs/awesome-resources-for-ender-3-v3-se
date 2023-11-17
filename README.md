@@ -86,8 +86,8 @@ Opposed to Sonic Pad klipper "standard" installation on RPi board or else use US
 
 ### Configurations
 
-- [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config)
-- [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
+- [xD34D](https://github.com/0xD34D/ender3-v3-se-klipper-config)
+- [bootuz-dinamon](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
 
 I recommend using 0xD34D configuration if you use his klipper fork.
 
