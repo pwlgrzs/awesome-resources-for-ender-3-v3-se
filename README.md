@@ -5,7 +5,7 @@
 ## ToC
 
 - [Community](#community)
-- [Hardware and parts](#hardware-and-parts)
+- [Hardware, parts, mods](#hardware-parts-mods)
   - [Mods](#mods)
     - [Not-printable](#not-printable)
     - [Printable](#printable)
@@ -16,7 +16,7 @@
   - [Firmware](#firmware)
   - [Configurations](#configurations)
   - [Klipper extras](#klipper-extras)
-  - [SonicPad](#sonicpad)
+  - [Sonic Pad](#sonic-pad)
 - [Other 3D printing useful info](#other-3d-printing-useful-info)
   - [Models sites](#models-sites)
   - [3D printing guides](#3d-printing-guides)
@@ -29,10 +29,10 @@
 
 - [Creality /r](https://www.reddit.com/r/Creality/)
 - [Ender 3 V3 SE /r (unofficial)](https://www.reddit.com/r/Ender3V3SE/)
-- [Discord](https://discord.gg/mbCpbSv9)
-- [Facebook group](https://www.facebook.com/groups/347538964267031)
+- [Discord (unofficial)](https://discord.gg/gYyN3zJEW6)
+- [Facebook group (unofficial)](https://www.facebook.com/groups/347538964267031)
 
-## Hardware and parts
+## Hardware, parts, mods
 
 ### Mods
 
@@ -78,6 +78,8 @@ While it is possible to flash klipper onto Ender 3 V3 SE board following feature
 
 Opposed to Sonic Pad klipper "standard" installation on RPi board or else use USB-C connection.
 
+You can start with reading [short guide on starting with Klipper](/klipper/README.md)
+
 ### Firmware
 
 - [Development klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se)
@@ -99,7 +101,7 @@ I recommend using 0xD34D configuration if you use his klipper fork.
 
 \* Requires hardware purchase
 
-### SonicPad
+### Sonic Pad
 
 Sonic Pad is Creality T800 AllWinner tablet with preinstalled and customized Klipper. The OS is pretty much closed (even if rooted) and does not allow for any modifications outside what can be seen in the webUI (no KAMP, no Telegram bot, nothing).
 
