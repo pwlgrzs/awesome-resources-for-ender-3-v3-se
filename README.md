@@ -1,6 +1,7 @@
 # Your one-stop-shop for everything related to:<br>***Ender 3 V3 SE!***
 
 ## Community
+
 * [Creality /r](https://www.reddit.com/r/Creality/)
 * [Ender 3 V3 SE /r (unofficial)](https://www.reddit.com/r/Ender3V3SE/)
 * [Discord](https://discord.gg/mbCpbSv9)
@@ -19,13 +20,15 @@ All items below were either purchased by someone in the community or purchased b
 * [Sonic Pad](https://www.aliexpress.com/item/1005005573923853.html)
 * [Sonic Pad G-Sensor and Serial Cable*](https://www.aliexpress.com/item/1005005135181819.html)
 
-\* Serial cable is currently required to connect SonicPad to V3 SE, USB-C connection does not work.
+\* Serial cable is currently required to connect SonicPad to V3 SE, USB-C connection does not work. Please refer to Sonic Pad section for more information.
 
 #### Printable
 
-* [Ender 3 V3 SE 4010 Fan Shroud ](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud) by iambengraham
+* [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud) by iambengraham
 
 ![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
+
+* [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se) by Demothens
 
 ## Slicers
 
@@ -45,6 +48,7 @@ Cura profile is already in the code and will be released with next Cura version 
 * [Klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se) by [0xD34D](https://github.com/0xD34D)*
 
 \* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk.
+
 ### Configurations
 
 * [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config) by [0xD34D](https://github.com/0xD34D)
@@ -66,13 +70,13 @@ The only plus I currently see in owning one is that it has device specific confi
 
 Does it work? Yes. Do you need it? That depends. You can refer to the table below.
 
-| + + +                                  	| - - -                                              	|
-|----------------------------------------	|----------------------------------------------------	|
-| Creality customized profiles           	| Closed OS                                          	|
-| No in-depth klipper knowledge required 	| No Klipper addons/plugins                          	|
-| Simple to use from touch screen        	| Device is slow                                     	|
-| Easy calibration from the UI           	| Touch screens seems laggy                          	|
-| Adds WiFi capability to the printer    	| Requires separate serial cable to connect to V3 SE 	|
+| + + +                                   | - - -                                               |
+|---------------------------------------- |---------------------------------------------------- |
+| Creality customized profiles            | Closed OS                                           |
+| No in-depth klipper knowledge required  | No Klipper addons/plugins                           |
+| Simple to use from touch screen         | Device is slow                                      |
+| Easy calibration from the UI            | Touch screens seems laggy                           |
+| Adds WiFi capability to the printer     | Requires separate serial cable to connect to V3 SE  |
 
 You can buy one here: [Aliexpress](https://www.aliexpress.com/item/1005005573923853.html).
 My purchase from the link above came with serial cable and G-Sensor however it was noted that not all boxes had these cables included. Links to these cables is listed above.
@@ -92,6 +96,7 @@ WIP
 https://github.com/Klipper3d/klipper
 https://github.com/0xD34D/klipper_ender3_v3_se
 ```
+
 3. Then in KIAUH settings change klipper repo to 0xD34D's
 4. Install klipper in KIAUH as usual
 5. Once installed build firmware as usual from the klipper folder
