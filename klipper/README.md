@@ -46,8 +46,9 @@ I won't be providing detailed information or step-by-step guide, these will be j
 1. Get a PC/RPi/whatever capable of running debian type system and prep it until you're SSH'ed into.
 2. Get [KIAUH](https://github.com/dw-0/kiauh) and install klipper, moonraker, fluidd or mainsail.<br>
 In short, you talk to fluidd, fluidd talks to moonraker and moonraker talks to klipper.
-3. Get a klipper config from either of [repos](../README.md#configurations) and upload it to your controller.
+3. Get a klipper config from either of configuration [repos](../README.md#configurations) and upload it to your controller.
 4. In the terminal you'll need to compile klipper firmware.
+
 ```bash
 cd ~/klipper/
 make menuconfig
@@ -59,14 +60,16 @@ There select following settings:
 - Bootloader offset: 28KiB
 - Communication interface: Serial (onUSART1 PA10/PA09)
 ``````
+
 Quit and save. Then run:
+
 ```bash
 make
 ```
 
 Once completed you will find klipper.bin file in out folder. Copy it to SD card, place it in the printer and turn the printer on.
 
-5. Wait 5 minutes and restart klipper service via your web interface. If you succeeded error will be gone and you'll be successfully connected to printer.
+1. Wait 5 minutes and restart klipper service via your web interface. If you succeeded error will be gone and you'll be successfully connected to printer.
 
 Great job, you're now klipperized. Go Google the rest.
 
