@@ -105,3 +105,7 @@ https://github.com/0xD34D/klipper_ender3_v3_se
 8. In existing printer.cfg add line [include prtouch.cfg]
 9. Restart klipper service
 10. PRTOUCH_PROBE_ZOFFSET should now work and return Z-offset in the end of printer.cfg
+
+#### Contribution
+
+Want to add your resources? Sure thing, open an issue or send a PR.
