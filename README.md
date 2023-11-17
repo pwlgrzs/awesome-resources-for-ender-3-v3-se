@@ -4,6 +4,7 @@
 * [Creality /r](https://www.reddit.com/r/Creality/)
 * [Ender 3 V3 SE /r (unofficial)](https://www.reddit.com/r/Ender3V3SE/)
 * [Discord](https://discord.gg/mbCpbSv9)
+* [Facebook group](https://www.facebook.com/groups/347538964267031)
 
 ## Hardware and parts
 
@@ -23,10 +24,6 @@ All items below were either purchased by someone in the community or purchased b
 #### Printable
 
 * [Ender 3 V3 SE 4010 Fan Shroud ](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud) by iambengraham
-
-#### Other 3D printing useful stuff
-
-WIP
 
 ## Slicers
 
@@ -51,7 +48,32 @@ Cura profile is already in the code and will be released with next Cura version 
 * [Klipper configuration](https://github.com/0xD34D/ender3-v3-se-klipper-config) by [0xD34D](https://github.com/0xD34D)
 * [Klipper configuration](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper) by [bootuz-dinamon](https://github.com/bootuz-dinamon)
 
+### Klipper extras
+
+* [CYD-Klipper](https://github.com/suchmememanyskill/CYD-Klipper)
+* [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+* [Telegram bot](https://github.com/nlef/moonraker-telegram-bot)
+
 ### SonicPad
+
+Sonic Pad is Creality T800 Allwinner tablet with preinstalled and customized Klipper. The OS is pretty much closed (even if rooted) and does not allow for any modifications outside what can be seen in the webUI (no KAMP, no Telegram bot, nothing). 
+
+The only plus I currently see in owning one is that it has device specific configurations that community is currently struggling to replicate (such as pytouch_v2 implementation - note there is a pytouch_v1 working version of klipper).
+
+Does it work? Yes. Do you need it? That depends. You can refer to the table below.
+
+| + + +                                  	| - - -                                              	|
+|----------------------------------------	|----------------------------------------------------	|
+| Creality customized profiles           	| Closed OS                                          	|
+| No in-depth klipper knowledge required 	| No Klipper addons/plugins                          	|
+| Simple to use from touch screen        	| Device is slow                                     	|
+| Easy calibration from the UI           	| Touch screens seems laggy                          	|
+| Adds WiFi capability to the printer    	| Requires separate serial cable to connect to V3 SE 	|
+
+You can buy one here: [Aliexpress](https://www.aliexpress.com/item/1005005573923853.html)
+My purchase from the link above came with serial cable and G-Sensor however it was noted that not all boxes had these cables included. Links to these cables is listed above.
+
+## Other 3D printing useful info
 
 WIP
 
