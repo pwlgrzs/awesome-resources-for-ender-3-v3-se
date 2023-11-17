@@ -2,7 +2,7 @@
 # Your one-stop-shop for everything related to:<br>***Ender 3 V3 SE!***
 
 <!-- omit in toc -->
-## TOC
+## ToC
 
 - [Community](#community)
 - [Hardware and parts](#hardware-and-parts)
@@ -17,6 +17,8 @@
   - [Klipper extras](#klipper-extras)
   - [SonicPad](#sonicpad)
 - [Other 3D printing useful info](#other-3d-printing-useful-info)
+  - [Models sites](#models-sites)
+  - [3D printing guides](#3d-printing-guides)
 - [Other stuff](#other-stuff)
     - [Install instructions for 0xD34D Klipper fork](#install-instructions-for-0xd34d-klipper-fork)
 - [Contribution](#contribution)
@@ -109,7 +111,15 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 
 ## Other 3D printing useful info
 
-WIP
+### Models sites
+
+* [printables.com](https://www.printables.com/)
+* [thingverse.com](https://www.thingiverse.com/)
+* [yeggi.com](https://www.yeggi.com/) - this is an aggregator from various sites
+
+### 3D printing guides
+
+* [all3dp.com](https://all3dp.com/)
 
 ## Other stuff
 
