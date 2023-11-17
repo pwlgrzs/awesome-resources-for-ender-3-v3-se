@@ -1,5 +1,4 @@
-# Your one-stop-shop for everything related to: 
-# ***Ender 3 V3 SE!***
+# Your one-stop-shop for everything related to:<br>***Ender 3 V3 SE!***
 
 ## Community
 * [Creality /r](https://www.reddit.com/r/Creality/)
