@@ -116,7 +116,7 @@ Does it work? Yes. Do you need it? That depends. You can refer to the table belo
 | Simple to use from touch screen         | Device is slow                                      |
 | Easy calibration from the UI            | Touch screens seems laggy                           |
 | Adds WiFi capability to the printer     | Requires separate serial cable to connect to V3 SE  |
-| Built-in G-Sensor calibration           |                                                     |
+| Built-in G-Sensor calibration           | Slicer profiles may not have compatibile commands   |
 
 You can buy one here: [Aliexpress](https://www.aliexpress.com/item/1005005573923853.html).
 My purchase from the link above came with serial cable and G-Sensor however it was noted that not all boxes had these cables included. Links to these cables is listed above.
