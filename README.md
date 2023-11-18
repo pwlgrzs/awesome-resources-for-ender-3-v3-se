@@ -51,6 +51,9 @@ All items below were either purchased by someone in the community or purchased b
 #### Printable
 
 - [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud)
+- [Bin + cable holder](https://www.printables.com/model/630264-ender-3-v3-se-bin-cable-holder)
+- [Bed levelling guide](https://www.printables.com/model/596800-ender-3-v3-se-bed-leveling-file)
+- [90 Degree spool holder](https://www.printables.com/model/572862-ender-3-v3-se-spool-holder)
 
 ![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
 
