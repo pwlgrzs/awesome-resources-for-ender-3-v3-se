@@ -12,6 +12,7 @@
 - [Slicers](#slicers)
   - [Slicer profiles](#slicer-profiles)
 - [Remote controlling your printer](#remote-controlling-your-printer)
+- [Camera](#camera)
   - [Sonic Pad](#sonic-pad)
 - [Other 3D printing useful info](#other-3d-printing-useful-info)
   - [Models sites](#models-sites)
@@ -65,6 +66,11 @@ Here you have 2 options: Klipper or OctoPrint.
 
 Read more in [How to remote control Ender 3 V3 SE](/remote-control/README.md).
 
+## Camera
+
+Go for Logitech C270 (1280x720) or Logitech G920 (FHD).
+These 2 have greatest number of available printed mods, I think C270 even more that G920. IMO C270 is more than enough for job monitoring.
+
 ### Sonic Pad
 
 Sonic Pad is Creality T800 AllWinner tablet with preinstalled and customized Klipper. The OS is pretty much closed (even if rooted) and does not allow for any modifications outside what can be seen in the webUI (no KAMP, no Telegram bot, nothing).
@@ -99,6 +105,7 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 
 - [all3dp.com](https://all3dp.com/)
 - [teachingtechyt](https://teachingtechyt.github.io) - guides on how to calibrate printer
+- [ellis3dp.com](https://ellis3dp.com)
 
 ## Other stuff
 
