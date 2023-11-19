@@ -12,7 +12,7 @@
 - [Slicers](#slicers)
   - [Slicer profiles](#slicer-profiles)
 - [Remote controlling your printer](#remote-controlling-your-printer)
-- [Camera](#camera)
+  - [Camera](#camera)
   - [Sonic Pad](#sonic-pad)
 - [Other 3D printing useful info](#other-3d-printing-useful-info)
   - [Models sites](#models-sites)
