@@ -27,7 +27,7 @@ Raspberry Pi Zero 2W is cheap and will do (may be lacking firepower if you decid
 
 Additionally you need a USB-C cable to connect controller to the printer, maybe a USB hub if you want camera.
 
-Note that I am probably offending half of the internet using word klipper controller (or suite) but that's what makes most sense IMHO.
+I am probably offending half of the internet using word klipper controller (or suite) but that's what makes most sense IMHO.
 
 ### Cool, what now?
 

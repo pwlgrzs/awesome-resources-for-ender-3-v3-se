@@ -55,7 +55,7 @@ If you want to contribute please open and issue with links to models you'd like 
 
 ### Slicer profiles
 
-- [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config)
+- [Prusa profile](https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config) - both stock and klipper
 - Cura - Profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
 - Orca - Yet to find working Orca profile...
 
@@ -93,6 +93,7 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 - [thingverse.com](https://www.thingiverse.com/)
 - [makerworld.com/en](https://makerworld.com/en) - model site by Bambu Labs
 - [yeggi.com](https://www.yeggi.com/) - this is an aggregator from various sites
+- [thangs.com](https://thangs.com/) - same as above
 
 ### 3D printing guides
 
