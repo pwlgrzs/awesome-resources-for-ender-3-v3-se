@@ -49,6 +49,8 @@ I figured it will take a lot of scrolling to list all possible mods for Ender 3 
 
 [Have a look and print!](https://www.printables.com/@pblvsk_1037476/collections/998458)
 
+If you want to contribute please open and issue with links to models you'd like to add.
+
 ## Slicers
 
 ### Slicer profiles
