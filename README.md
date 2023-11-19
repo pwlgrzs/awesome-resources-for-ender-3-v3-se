@@ -11,17 +11,12 @@
     - [Printable](#printable)
 - [Slicers](#slicers)
   - [Slicer profiles](#slicer-profiles)
-- [Klipper](#klipper)
-  - [Klipper on Ender 3 V3 SE](#klipper-on-ender-3-v3-se)
-  - [Firmware](#firmware)
-  - [Configurations](#configurations)
-  - [Klipper extras](#klipper-extras)
+- [Remote controlling your printer](#remote-controlling-your-printer)
   - [Sonic Pad](#sonic-pad)
 - [Other 3D printing useful info](#other-3d-printing-useful-info)
   - [Models sites](#models-sites)
   - [3D printing guides](#3d-printing-guides)
 - [Other stuff](#other-stuff)
-  - [Install instructions for 0xD34D Klipper fork](#install-instructions-for-0xd34d-klipper-fork)
 - [Contribution](#contribution)
 - [Credits](#credits)
 
@@ -50,14 +45,9 @@ All items below were either purchased by someone in the community or purchased b
 
 #### Printable
 
-- [Ender 3 V3 SE 4010 Fan Shroud](https://www.printables.com/model/595397-ender-3-v3-se-4010-fan-shroud)
-- [Bin + cable holder](https://www.printables.com/model/630264-ender-3-v3-se-bin-cable-holder)
-- [Bed levelling guide](https://www.printables.com/model/596800-ender-3-v3-se-bed-leveling-file)
-- [90 Degree spool holder](https://www.printables.com/model/572862-ender-3-v3-se-spool-holder)
+I figured it will take a lot of scrolling to list all possible mods for Ender 3 V3 SE so this section will only contain a link to mods in the Printables collection.
 
-![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
-
-- [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se)
+[Have a look and print!](https://www.printables.com/@pblvsk_1037476/collections/998458)
 
 ## Slicers
 
@@ -67,42 +57,11 @@ All items below were either purchased by someone in the community or purchased b
 - Cura - Profile is already in the code and will be released with next Cura version (5.6.0 currently in beta).
 - Orca - Yet to find working Orca profile...
 
-## Klipper
+## Remote controlling your printer
 
-- [Official site](https://www.klipper3d.org)
-- [Discord](https://discord.klipper3d.org)
+Here you have 2 options: Klipper or OctoPrint.
 
-### Klipper on Ender 3 V3 SE
-
-While it is possible to flash klipper onto Ender 3 V3 SE board following features are not (yet) working or there are testing releases availabe from other code creators.
-
-- automatic Z-offset probing
-- screen (it is in the screensaver mode after flashing)
-
-Opposed to Sonic Pad klipper "standard" installation on RPi board or else use USB-C connection.
-
-You can start with reading [short guide on starting with Klipper](/klipper/README.md)
-
-### Firmware
-
-- [Development klipper fork with working automatic z-offset](https://github.com/0xD34D/klipper_ender3_v3_se)
-
-\* See installation instructions [below](https://github.com/pwlgrzs/awesome-resources-for-ender-3-v3-se#other-stuff), use at own risk.
-
-### Configurations
-
-- [xD34D](https://github.com/0xD34D/ender3-v3-se-klipper-config)
-- [bootuz-dinamon](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
-
-I recommend using 0xD34D configuration if you use his klipper fork.
-
-### Klipper extras
-
-- [CYD-Klipper](https://github.com/suchmememanyskill/CYD-Klipper)*
-- [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
-- [Telegram bot](https://github.com/nlef/moonraker-telegram-bot)
-
-\* Requires hardware purchase
+Read more in [How to remote control Ender 3 V3 SE](/remote-control/README.md).
 
 ### Sonic Pad
 
@@ -139,27 +98,6 @@ My purchase from the link above came with serial cable and G-Sensor however it w
 - [teachingtechyt](https://teachingtechyt.github.io) - guides on how to calibrate printer
 
 ## Other stuff
-
-### Install instructions for 0xD34D Klipper fork
-
-I assume if you got here you may know what you're doing but I have to say that again, you're on your own and not me nor the 0xD34D would be responsible for your printer becoming a toast.
-
-1. Run KIAUH and uninstall klipper (ONLY klipper)
-2. In KIAUH folder create file named klipper_repos.txt and add these 2 lines:
-
-```text
-https://github.com/Klipper3d/klipper
-https://github.com/0xD34D/klipper_ender3_v3_se
-```
-
-3. Then in KIAUH settings change klipper repo to 0xD34D's
-4. Install klipper in KIAUH as usual
-5. Once installed build firmware as usual from the klipper folder
-6. Flash the firmware to printer
-7. Create prtouch.cfg with contents from [0xD34D](https://github.com/0xD34D/ender3-v3-se-klipper-config/blob/main/prtouch.cfg)
-8. In existing printer.cfg add line [include prtouch.cfg]
-9. Restart klipper service
-10. PRTOUCH_PROBE_ZOFFSET should now work and return Z-offset in the end of printer.cfg
 
 ## Contribution
 
