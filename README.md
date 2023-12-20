@@ -68,7 +68,7 @@ Read more in [How to remote control Ender 3 V3 SE](/remote-control/README.md).
 
 ### Camera
 
-Go for Logitech C270 (1280x720) or Logitech G920 (FHD).
+Go for Logitech C270 (1280x720) or Logitech C920 (FHD).
 These 2 have greatest number of available printed mods, I think C270 even more that G920. IMO C270 is more than enough for job monitoring.
 
 ### Sonic Pad
