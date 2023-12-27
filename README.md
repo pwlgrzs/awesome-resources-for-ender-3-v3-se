@@ -1,5 +1,8 @@
 <!-- omit in toc -->
-# Your one-stop-shop for everything related to:<br>***Ender 3 V3 SE!***
+# [DISCONTINUED!]
+
+This page is now discontinued and [moved here](https://pblvsky.gitbook.io/ender3v3se/).
+[GitHub repo for PR/Issues.](https://github.com/pwlgrzs/ender3-v3-se-gitbook)
 
 <!-- omit in toc -->
 ## ToC
